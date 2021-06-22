@@ -2224,7 +2224,7 @@
 }
 
 {
-    "m_SGVersion": 0,
+    "m_SGVersion": 1,
     "m_Type": "UnityEditor.ShaderGraph.ColorNode",
     "m_ObjectId": "d81a1fe286e42e859e3f7c12a17afd91",
     "m_Group": {

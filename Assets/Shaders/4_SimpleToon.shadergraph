@@ -873,7 +873,7 @@
 }
 
 {
-    "m_SGVersion": 0,
+    "m_SGVersion": 1,
     "m_Type": "UnityEditor.ShaderGraph.SampleGradient",
     "m_ObjectId": "58e8e292b1619280adbb833f5ec642c5",
     "m_Group": {

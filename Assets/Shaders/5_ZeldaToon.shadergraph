@@ -3201,7 +3201,7 @@
 }
 
 {
-    "m_SGVersion": 0,
+    "m_SGVersion": 1,
     "m_Type": "UnityEditor.ShaderGraph.SampleGradient",
     "m_ObjectId": "2cde2579e76569858448f6bf547c569c",
     "m_Group": {
@@ -6818,7 +6818,7 @@
 }
 
 {
-    "m_SGVersion": 0,
+    "m_SGVersion": 1,
     "m_Type": "UnityEditor.ShaderGraph.SampleGradient",
     "m_ObjectId": "7ceb04c155024588999c507a870f61fe",
     "m_Group": {
@@ -10396,7 +10396,7 @@
 }
 
 {
-    "m_SGVersion": 0,
+    "m_SGVersion": 1,
     "m_Type": "UnityEditor.ShaderGraph.SampleGradient",
     "m_ObjectId": "d4e49633efdbbe88862bc29b001e4419",
     "m_Group": {
